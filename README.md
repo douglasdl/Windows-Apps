@@ -1,7 +1,9 @@
 # Windows-Apps
 Windows Apps
 
--[VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
--[WinSCP](https://winscp.net/eng/download.php)
--[Visual Studio Code](https://code.visualstudio.com/download)
--[Visual Studio Code Insiders](https://code.visualstudio.com/insiders/)
+- [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
+- [WinSCP](https://winscp.net/eng/download.php)
+- [Visual Studio Code](https://code.visualstudio.com/download)
+- [Visual Studio Code Insiders](https://code.visualstudio.com/insiders/)
+- [Git](https://git-scm.com/download/)
+- [SQLite Browser](https://sqlitebrowser.org/dl/)
