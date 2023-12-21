@@ -1,13 +1,14 @@
 # Windows-Apps
 Windows Apps
 
-- [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
-- [WinSCP](https://winscp.net/eng/download.php)
-- [Visual Studio Code](https://code.visualstudio.com/download)
-- [Visual Studio Code Insiders](https://code.visualstudio.com/insiders/)
-- [Git](https://git-scm.com/download/)
-- [SQLite Browser](https://sqlitebrowser.org/dl/)
-- [Tera Term](https://teratermproject.github.io/)
-- [Modbus Tool for Debug (HuMANDATA)](https://www.fa.hdl.co.jp/jp/html/app/Modbus_Tool/index.html)
-- [Node.js](https://nodejs.org/en)
-- [Sublime Text](https://www.sublimetext.com/)
+- [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html): Virtual Machine.
+- [WinMerge](https://winmerge.org/downloads/): Text Files comparison.
+- [WinSCP](https://winscp.net/eng/download.php): FTP Client.
+- [Visual Studio Code](https://code.visualstudio.com/download): IDE.
+- [Visual Studio Code Insiders](https://code.visualstudio.com/insiders/): IDE (Beta Version).
+- [Git](https://git-scm.com/download/): Source Code Managment.
+- [SQLite Browser](https://sqlitebrowser.org/dl/): SQLite Viewer.
+- [Tera Term](https://teratermproject.github.io/): Serial Communication.
+- [Modbus Tool for Debug (HuMANDATA)](https://www.fa.hdl.co.jp/jp/html/app/Modbus_Tool/index.html): Modbus Protocol Client Test.
+- [Node.js](https://nodejs.org/en): Runtime Environment.
+- [Sublime Text](https://www.sublimetext.com/): Text Editor.
